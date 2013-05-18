@@ -2,3 +2,4 @@
 mysite.db
 *.[oa]
 *~
+*.pyc
