@@ -1,0 +1,4 @@
+#ignore the database
+mysite.db
+*.[oa]
+*~
